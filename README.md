@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuri-maha&label=Profile%20views&color=0e75b6&style=flat" alt="madhuri-maha" /> </p>
 
 - 🌱 I’m currently working on **Financial Question-Answering using Self-RAG and LLaMA Finetuning**
-- 🔭 I’m researching **AI-based risk assessment and autonomous data pipelines**
 - 💬 Ask me about **Machine Learning, Data Engineering, and Cloud Computing**
 - 📫 How to reach me **mm13575@nyu.edu**
 
